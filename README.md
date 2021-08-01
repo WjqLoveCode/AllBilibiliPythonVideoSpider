@@ -1,2 +1,1 @@
-# 爬取bilibili所有python视频
-你还在愁找不到python学习资料？这个程序让你一次学到吐！
+爬取bilibili所有python视频!你还在愁找不到python学习资料？这个程序让你一次学到吐！
